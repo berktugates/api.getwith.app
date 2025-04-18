@@ -23,6 +23,7 @@
   "devDependencies": {
     "@types/bcrypt": "^5.0.2",
     "@types/express": "^5.0.0",
+    "@types/joi": "^17.2.3",
     "@types/jsonwebtoken": "^9.0.9",
     "@types/mongodb": "^4.0.7",
     "@types/mongoose": "^5.11.97",
